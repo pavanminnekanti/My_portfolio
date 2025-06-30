@@ -15,7 +15,7 @@ personal_info = {
         "Summary:-\n\n"
         "👉 Data Collection & Processing Assist in collecting,cleaning and structuring datasets for ML Training and Analysis\n\n"
         "👉 Designing,Training, and evaluting machine learning models\n\n"
-        "👉 Maintain clear and concise deocumentation of ML experiments,model performance and project progress.\n\n"
+        "👉 Maintain clear and concise documentation of ML experiments,model performance and project progress.\n\n"
         "👉 Skilled in NLP, Neural Networks, and solving real-world problems with data.\n\n"
         "👉 Automating tasks and integrating AI into DevOps pipelines and improve efficiency, reliability, and scalability"
     ),
